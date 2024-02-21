@@ -27,12 +27,12 @@ A secondary pipeline, designed specifically for this task, checks these change t
 ## Advantages
 The implementation of this cloud-based data replication system offers several key benefits:
 
-* Reduced Load on On-Premises Servers: By redirecting data access requests to the cloud, we significantly reduce the operational load on the on-premises server, enhancing its performance and longevity.
+- Reduced Load on On-Premises Servers: By redirecting data access requests to the cloud, we significantly reduce the operational load on the on-premises server, enhancing its performance and longevity.
 
 - Improved Data Accessibility: With data replicated to the cloud, organizations can access up-to-date information without directly impacting the primary data source. This ensures seamless data retrieval for reporting, analysis, and other purposes.
 
-Scalability: The cloud-based approach offers excellent scalability, easily accommodating increases in data volume and access requests without the need for substantial infrastructure investments on-premises.
+- Scalability: The cloud-based approach offers excellent scalability, easily accommodating increases in data volume and access requests without the need for substantial infrastructure investments on-premises.
 
-Reliability and Uptime: Leveraging cloud infrastructure enhances the reliability of data access, ensuring that data is available even in the event of on-premises server issues.
+- Reliability and Uptime: Leveraging cloud infrastructure enhances the reliability of data access, ensuring that data is available even in the event of on-premises server issues.
 
-Efficient Data Management: The use of Change Tracking and incremental updates minimizes the need for full data transfers, reducing bandwidth usage and ensuring that only relevant changes are replicated.
+- Efficient Data Management: The use of Change Tracking and incremental updates minimizes the need for full data transfers, reducing bandwidth usage and ensuring that only relevant changes are replicated.
